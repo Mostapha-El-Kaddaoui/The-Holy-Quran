@@ -24,7 +24,7 @@
           <h2>بِسْمِ اللهِ الرَّحْمَٰنِ الرَّحِيمِ</h2>
           <h2>In The Name of Allah, The Most Beneficent, The Most Merciful</h2>
         </div>
-      </div>
+      </div> 
       <div class="container-of-a-readers">
         <div class="c-readers-title"><h1 class="readers-title">القرآء</h1></div>
         <div class="container-of-readers">
