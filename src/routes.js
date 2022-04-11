@@ -1,10 +1,10 @@
 
 
-import HomePage from './components/HomePage'
-import AboutUs from './components/AboutUs'
+import Reader from './components/Reader'
+import Surah from './components/Surah'
 
 const routes= [
-    {path: "/", component: HomePage },
-    {path: "/surah", component: AboutUs , name:"about"},
+    {path: "/", component: Reader },
+    {path: "/surah", component: Surah , name:"about"},
 ]
 export default routes;
